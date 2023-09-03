@@ -1,0 +1,7 @@
+'Shredded coconut': Almond flour, Sunflower seed flour, Flaxseed meal, Sesame seed flour, Chickpea flour, Chestnut flour, Walnut flour, Oat flour, Peanuts and Rice flour
+'Almond flour': Shredded Coconut, Sunflower Seed Flour, Yellow Flaxseed Meal, Flaxseed Meal, Soy Flour, Sesame Seed Flour, Chickpea Flour, Chestnut Flour, Walnut Flour, Oat Flour, Dried Strawberries, Banana Chips, Peanuts, and Rice Flour
+'Sunflower seed flour': almond flour, yellow flaxseed meal, flaxseed meal, sesame seed flour, chickpea flour, chestnut flour, walnut flour, oat flour, dried strawberries, banana chips, peanuts, and rice flour
+'Yellow Flaxseed Meal': almond flour, sunflower seed flour, flaxseed meal, sesame seed flour, chickpea flour, chestnut flour, walnut flour, oat flour, peanuts, and rice flour
+'Flaxseed meal': almond flour, sunflower seed flour, yellow flaxseed meal, sesame seed flour, chickpea flour, chestnut flour, walnut flour, oat flour, and rice flour
+'Soy flour': Almond flour, Sunflower seed flour, Yellow flaxseed meal, Flaxseed meal, Sesame seed flour, Chickpea flour, Chestnut flour, Walnut flour, Oat flour, and Rice flour
+'Chicory ': almond flour, sunflower seed flour, yellow flaxseed meal, flaxseed meal, soy flour, sesame seed flour, chickpea flour, chestnut flour, walnut flour, oat flour, dried strawberries, banana chips, peanuts, and rice flour
